@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTL_QTCSDL_Backend", "BTL_QTCSDL_Backend\BTL_QTCSDL_Backend.csproj", "{79A1008C-7DB9-4C0B-8186-7BD58ED3802D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A1008C-7DB9-4C0B-8186-7BD58ED3802D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A1008C-7DB9-4C0B-8186-7BD58ED3802D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A1008C-7DB9-4C0B-8186-7BD58ED3802D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A1008C-7DB9-4C0B-8186-7BD58ED3802D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F155BE-05AB-4352-B87E-FB4B17CE7E6A}
+	EndGlobalSection
+EndGlobal
